@@ -1,12 +1,13 @@
 Sudoku Puzzle
 =============
 
-Welcome to Sudoku Puzzle, a versatile Sudoku solver and interactive game experience created using .NET and C#! Whether you're a Sudoku enthusiast looking to solve challenging puzzles or simply enjoy playing the game, Sudoku Puzzle has you covered.
+This 
 
 Features
 --------
 
--   Solver: A powerful Sudoku solver algorithm capable of solving puzzles of varying difficulty levels.
+-   Solver: A Sudoku solver using a recursive backtracking algorithm
+    - The recursive backtracking algorithm systematically fills Sudoku cells, exploring valid digit choices for each empty cell, backtracking when necessary until a solution is found or all possibilities are exhausted.
 -   Game Mode: An interactive game mode that allows you to play Sudoku puzzles with an intuitive user interface.
 -   Difficulty Levels: Choose from multiple difficulty levels to tailor the puzzle-solving experience to your preference.
 -   Error Checking: Real-time error checking to help you identify mistakes and improve your solving skills.

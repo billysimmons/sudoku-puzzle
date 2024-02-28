@@ -1,0 +1,15 @@
+/Users/billysimmons/Documents/PROJECTS/sudoku-puzzle/SudokuPuzzle/bin/Debug/net7.0/SudokuPuzzle
+/Users/billysimmons/Documents/PROJECTS/sudoku-puzzle/SudokuPuzzle/bin/Debug/net7.0/SudokuPuzzle.deps.json
+/Users/billysimmons/Documents/PROJECTS/sudoku-puzzle/SudokuPuzzle/bin/Debug/net7.0/SudokuPuzzle.runtimeconfig.json
+/Users/billysimmons/Documents/PROJECTS/sudoku-puzzle/SudokuPuzzle/bin/Debug/net7.0/SudokuPuzzle.dll
+/Users/billysimmons/Documents/PROJECTS/sudoku-puzzle/SudokuPuzzle/bin/Debug/net7.0/SudokuPuzzle.pdb
+/Users/billysimmons/Documents/PROJECTS/sudoku-puzzle/SudokuPuzzle/obj/Debug/net7.0/SudokuPuzzle.csproj.AssemblyReference.cache
+/Users/billysimmons/Documents/PROJECTS/sudoku-puzzle/SudokuPuzzle/obj/Debug/net7.0/SudokuPuzzle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/billysimmons/Documents/PROJECTS/sudoku-puzzle/SudokuPuzzle/obj/Debug/net7.0/SudokuPuzzle.AssemblyInfoInputs.cache
+/Users/billysimmons/Documents/PROJECTS/sudoku-puzzle/SudokuPuzzle/obj/Debug/net7.0/SudokuPuzzle.AssemblyInfo.cs
+/Users/billysimmons/Documents/PROJECTS/sudoku-puzzle/SudokuPuzzle/obj/Debug/net7.0/SudokuPuzzle.csproj.CoreCompileInputs.cache
+/Users/billysimmons/Documents/PROJECTS/sudoku-puzzle/SudokuPuzzle/obj/Debug/net7.0/SudokuPuzzle.dll
+/Users/billysimmons/Documents/PROJECTS/sudoku-puzzle/SudokuPuzzle/obj/Debug/net7.0/refint/SudokuPuzzle.dll
+/Users/billysimmons/Documents/PROJECTS/sudoku-puzzle/SudokuPuzzle/obj/Debug/net7.0/SudokuPuzzle.pdb
+/Users/billysimmons/Documents/PROJECTS/sudoku-puzzle/SudokuPuzzle/obj/Debug/net7.0/SudokuPuzzle.genruntimeconfig.cache
+/Users/billysimmons/Documents/PROJECTS/sudoku-puzzle/SudokuPuzzle/obj/Debug/net7.0/ref/SudokuPuzzle.dll

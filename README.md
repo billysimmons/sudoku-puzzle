@@ -24,23 +24,16 @@ Getting Started
 ### Installation
 
 1.  Clone the repository:
-
-    bashCopy code
     `https://github.com/billysimmons/sudoku-puzzle.git`
 
 2.  Navigate to the project directory:
-
-    bashCopy code
     `cd sudoku-puzzle`
+    
     `cd SudokuPuzzle`
 
-3.  Build the project:
-
-    bashCopy code
+4.  Build the project:
     `dotnet build`
 
-4.  Run the application:
-
-    bashCopy code
+5.  Run the application:
     `dotnet run`
 

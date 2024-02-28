@@ -25,7 +25,7 @@ Getting Started
 
 1.  Clone the repository:
 
-    `https://github.com/billysimmons/sudoku-puzzle.git`
+    `git clone https://github.com/billysimmons/sudoku-puzzle.git`
 
 3.  Navigate to the project directory:
 

@@ -9,7 +9,7 @@ Features
 -   Solver: A Sudoku solver using a recursive backtracking algorithm.
     - The recursive backtracking algorithm systematically fills Sudoku cells, exploring valid digit choices for each empty cell, backtracking when necessary until a solution is found or all possibilities are exhausted.
 -   Board Creation: Boards are created based on the difficulty level provided by the user.
-   - First, an assortment of random numbers are placed throughout the board to ensure each puzzle created differs from the last. The board is then solved, where a set amount of cells are set back to 0 based on the difficulty level. 
+    - First, an assortment of random numbers are placed throughout the board to ensure each puzzle created differs from the last. The board is then solved, where a set amount of cells are set back to 0 based on the difficulty level. 
 -   Game Mode: An interactive game mode that allows you to play the generated Sudoku puzzles.
     - The board is interacted with via coordinates, where 0's represent empty cells. Instructions are included to assist users in playing the game.
 -   Cell Checking: Cell checking to identify invalid cells by comparing them to the solved board.

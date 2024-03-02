@@ -5,25 +5,25 @@ class BoardHandler
 {
     public static int[,] board = new int[9, 9];
     public static int[,] solvedBoard = new int[9, 9];
-    private List<(int, int)> fixedCells { get; set; }
+    private List<(int, int)> _fixedCells { get; set; }
     bool willPrint = false;
 
     public BoardHandler(int[,] emptyBoard)
     {
         board = emptyBoard;
-        fixedCells = new List<(int, int)>();
+        _fixedCells = new List<(int, int)>();
     }
 
     public void NewBoard(string difficulty)
     {
         FillBoard(difficulty);
-        PrintBoard(board, null, fixedCells);
+        PrintBoard(board, null, _fixedCells);
     }
 
     public void UpdateBoard(int value, int row, int col)
     {
         UpdateCell(value, row, col);
-        PrintBoard(board, null, fixedCells);
+        PrintBoard(board, null, _fixedCells);
     }
 
     public void CheckBoard()
@@ -133,7 +133,7 @@ class BoardHandler
                         {
                             if (tempBoard[i, j] != 0)
                             {
-                                fixedCells.Add((i, j));
+                                _fixedCells.Add((i, j));
                             }
                         }
                     }
@@ -149,7 +149,7 @@ class BoardHandler
                         {
                             if (tempBoard[i, j] != 0)
                             {
-                                fixedCells.Add((i, j));
+                                _fixedCells.Add((i, j));
                             }
                         }
                     }
@@ -171,7 +171,7 @@ class BoardHandler
 
     public bool IsCellEditable(int row, int col)
     {
-        return !fixedCells.Any(cell => cell == (row, col));
+        return !_fixedCells.Any(cell => cell == (row, col));
     }
 
     public static void PrintBoard(int[,] board, List<(int, int)>? wrongCells = null, List<(int, int)>? fixedCells = null)
